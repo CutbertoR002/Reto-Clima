@@ -1,0 +1,51 @@
+.tam{
+    width: 28%;
+    padding: 0.3cm;
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+    background-color: cyan;
+    text-align: center;
+}
+.button:hover{
+    background-color:palegreen;
+}
+.button{
+    padding: 0.3cm;
+}
+.container{
+    margin-top: 0.2cm;
+}
+.city-temp {
+    border-width:5px;
+    font-size: 34px;
+    font-weight: bold;
+    color: red;
+}
+.city-press{
+    border-width:5px;
+    font-size: 22px;
+    font-weight: bold;
+    color: red;
+}
+.city sup {
+    font-size: 18px;
+    background-color: violet;
+}
+.city-name sup {
+    padding: 0.1cm;
+    border-radius: 50px;
+    color:white;
+    background-color: crimson;
+}
+.city-icon{
+    color: indigo;
+}
+.city{
+    border-width:5px;
+    border-collapse:unset;
+}
